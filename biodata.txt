@@ -3,3 +3,4 @@ nama	: michelle trivenna s
 kelas	: 12.3A.04
 prodi	: sistem informasi
 alamat	: bekasi
+nomor hp:0895605298096
