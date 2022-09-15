@@ -3,3 +3,4 @@ nama	:Michelle Trivenna Silalahi
 kelas	:12.3A.04
 prodi	:Sistem Informasi
 alamat	:Bekasi
+nomor hp:0895605298096
