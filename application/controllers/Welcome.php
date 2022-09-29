@@ -20,6 +20,11 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
+		
+		$this->load->view('hello_world');
+	}
+	 public function halo()
+	 { 
 		$this->load->view('Matakuliah');
 	}
 }
