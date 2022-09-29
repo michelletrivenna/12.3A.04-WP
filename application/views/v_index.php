@@ -10,12 +10,11 @@
 </head>
 
 <body>
-    Tugas Pertemuan 3 - Template Sederhana
     <div id="wrapper">
         <header>
             <hgroup> 
                 <h1>Berita-Kodingan</h1>
-                <h2><?php echo $judul ?></h2>
+                <h2>Tugas: <?php echo $pert; ?>, Membuat: <?php echo $jenis; ?></h2>
             </hgroup>
             <nav>
                 <ul>
